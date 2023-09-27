@@ -1,6 +1,16 @@
 # AWS Video Share Website Serverless: Scalable Video Sharing Platform
 
 ![Screenshot](Dartmouth_Video_AWS_Website.jpg)
+
+## Architecture
+
+For a visual representation of our project's architecture, refer to the following diagram:
+
+![Screenshot](videoshare_arch.png)
+
+We look forward to sharing the journey of creating this serverless video sharing website on the AWS platform. Through the integration of cutting-edge technologies and innovative solutions, we aim to provide a seamless video sharing experience for dartmouth students
+
+
 ## Features
 
 Our project encompasses a range of features aimed at providing a comprehensive video sharing solution:
@@ -31,10 +41,3 @@ Throughout the development of this project, we encountered and successfully addr
 3.  **User Management and Key Passing**: Creating users and securely passing keys to Lambda functions posed another hurdle. By implementing established security practices and AWS features, we ensured the safe management of user data and authentication credentials.
     
 
-## Architecture
-
-For a visual representation of our project's architecture, refer to the following diagram:
-
-![Screenshot](videoshare_arch.png)
-
-We look forward to sharing the journey of creating this serverless video sharing website on the AWS platform. Through the integration of cutting-edge technologies and innovative solutions, we aim to provide a seamless video sharing experience for user
